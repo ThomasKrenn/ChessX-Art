@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="19.165773mm"
+   height="27.070208mm"
+   viewBox="0 0 19.165773 27.070208"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="white_pawn.svg"
+   inkscape:export-filename="white_pawn.png"
+   inkscape:export-xdpi="91.953484"
+   inkscape:export-ydpi="91.953484"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="239.11293"
+     inkscape:cy="406.42954"
+     inkscape:window-width="1269"
+     inkscape:window-height="1079"
+     inkscape:window-x="575"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.700368,-40.923248)">
+    <path
+       id="path1"
+       style="font-size:33.8667px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;fill:#ffffff;stroke-width:0.264583"
+       d="m 51.291523,40.923261 c -0.937066,0 -1.736329,0.33073 -2.397787,0.992188 -0.650434,0.661458 -0.975651,1.455208 -0.975651,2.38125 0,1.10243 0.446485,1.989887 1.339453,2.662369 -1.124479,0.132292 -2.072569,0.622873 -2.844271,1.471745 -0.771702,0.848871 -1.157552,1.852083 -1.157552,3.009636 0,0.926041 0.242535,1.758376 0.727604,2.497005 0.496095,0.727604 1.135504,1.273307 1.91823,1.637109 -1.819011,0.694531 -3.307292,1.852084 -4.464844,3.472656 -1.157552,1.620573 -1.736328,3.450608 -1.736328,5.490105 0,1.201649 0.220486,2.353689 0.661458,3.456119 h 8.929688 8.929687 c 0.429948,-1.11346 0.644922,-2.2655 0.644922,-3.456119 0,-2.039497 -0.578776,-3.869532 -1.736328,-5.490105 -1.157552,-1.620572 -2.645834,-2.778125 -4.464844,-3.472656 0.771701,-0.363802 1.405599,-0.909505 1.901693,-1.637109 0.507118,-0.738629 0.760677,-1.570964 0.760677,-2.497005 0,-1.157553 -0.38585,-2.160765 -1.157552,-3.009636 -0.771701,-0.848872 -1.719792,-1.339453 -2.844271,-1.471745 0.892968,-0.672482 1.339453,-1.559939 1.339453,-2.662369 0,-0.926042 -0.330729,-1.719792 -0.992187,-2.38125 -0.661459,-0.661458 -1.455209,-0.992188 -2.38125,-0.992188 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.8667px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;stroke-width:0.264583"
+       x="34.358173"
+       y="64.421577"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="34.358173"
+         y="64.421577">♙</tspan></text>
+  </g>
+</svg>

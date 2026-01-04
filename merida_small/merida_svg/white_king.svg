@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.497919mm"
+   height="28.211197mm"
+   viewBox="0 0 28.497919 28.211197"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="white_king.svg"
+   inkscape:export-filename="white_king.png"
+   inkscape:export-xdpi="95.437286"
+   inkscape:export-ydpi="95.437286"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="134.22788"
+     inkscape:cy="122.9902"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="252.22356"
+       y="403.30795"
+       width="384.57849"
+       height="230.99683"
+       id="rect1" />
+    <rect
+       x="252.22356"
+       y="403.30795"
+       width="384.57849"
+       height="230.99683"
+       id="rect1-4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.414717,-116.39163)">
+    <path
+       id="path7"
+       style="font-size:128px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;white-space:pre;fill:#ffffff;stroke-width:0.264583"
+       d="m 83.667243,116.39165 c -0.396875,0 -0.595312,0.19293 -0.595312,0.57878 v 1.40559 h -1.372526 c -0.374825,0 -0.56224,0.18191 -0.56224,0.54571 v 0.0165 c 0,0.36381 0.187415,0.54571 0.56224,0.54571 h 1.372526 v 2.16627 h 1.174088 l 0.01654,-2.14974 1.405599,-0.0165 c 0.363802,0 0.545703,-0.1819 0.545703,-0.54571 v -0.0165 c 0,-0.3638 -0.181901,-0.54571 -0.545703,-0.54571 h -1.422136 v -1.40559 c 0,-0.38585 -0.192926,-0.57878 -0.578776,-0.57878 z m 0,5.3082 c -0.859893,0.011 -1.598525,0.31971 -2.215885,0.92604 -0.606335,0.60634 -0.909505,1.33946 -0.909505,2.19935 0,0.23151 0.02756,0.46302 0.08268,0.69453 -0.132292,-0.0882 -0.286631,-0.17638 -0.463021,-0.26458 -0.330729,-0.13229 -0.66697,-0.25907 -1.008724,-0.38034 -0.330729,-0.13229 -0.655947,-0.26458 -0.975651,-0.39687 -0.981162,-0.30868 -1.835547,-0.48507 -2.563151,-0.52917 -1.951299,-0.0772 -3.500218,0.51263 -4.646745,1.7694 -1.135501,1.25677 -1.648132,2.51906 -1.53789,3.78685 0.07717,1.31189 0.451998,2.43086 1.124479,3.3569 0.220485,0.29766 0.463021,0.57327 0.727604,0.82682 0.275609,0.25357 0.655947,0.58429 1.141016,0.99219 0.341754,0.30868 0.63941,0.52917 0.892968,0.66146 0.264584,0.12127 0.424437,0.22049 0.479558,0.29766 0.02205,0.0441 0.03859,0.0661 0.04961,0.0661 l 0.545703,3.09232 -1.091406,4.0349 c 0.496094,0.50711 1.714283,0.92604 3.654557,1.25677 1.940277,0.34175 4.189241,0.51263 6.746875,0.51263 2.513539,0 4.72943,-0.15985 6.647656,-0.47956 1.918229,-0.3197 3.152952,-0.7276 3.704167,-1.2237 l -1.091406,-4.0845 0.529166,-3.10886 c 0,-0.011 0.0055,-0.022 0.01654,-0.0331 0.01103,-0.011 0.02205,-0.0276 0.03307,-0.0496 0.0441,-0.0772 0.192926,-0.17639 0.446484,-0.29766 0.253561,-0.13229 0.56224,-0.35277 0.926042,-0.66145 0.46302,-0.39688 0.832336,-0.72209 1.107942,-0.97566 0.275609,-0.26458 0.523656,-0.5457 0.744141,-0.84335 0.672483,-0.92604 1.052822,-2.04501 1.141016,-3.35691 0.07717,-1.26779 -0.440974,-2.53007 -1.554427,-3.78684 -1.135502,-1.2678 -2.678907,-1.8576 -4.630209,-1.76941 -0.760674,0.0441 -1.615061,0.226 -2.563151,0.54571 -0.82682,0.29765 -1.493792,0.55673 -2.000911,0.77721 -0.143314,0.0661 -0.292143,0.14883 -0.446485,0.24805 0.0441,-0.28663 0.06615,-0.51814 0.06615,-0.69453 0,-0.84887 -0.303167,-1.57648 -0.909505,-2.18282 -0.606335,-0.61736 -1.339453,-0.92604 -2.199349,-0.92604 z" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:128px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect1);display:inline"><tspan
+         x="252.22266"
+         y="530.90538"
+         id="tspan1">♔</tspan></text>
+  </g>
+</svg>

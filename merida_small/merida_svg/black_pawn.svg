@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="19.165754mm"
+   height="27.070183mm"
+   viewBox="0 0 19.165754 27.070183"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="black_pawn.svg"
+   inkscape:export-filename="black_pawn.png"
+   inkscape:export-xdpi="91.949997"
+   inkscape:export-ydpi="91.949997"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="207.89714"
+     inkscape:cy="257.21808"
+     inkscape:window-width="1269"
+     inkscape:window-height="474"
+     inkscape:window-x="104"
+     inkscape:window-y="104"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="161.07346"
+       y="264.70987"
+       width="169.81387"
+       height="244.73177"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.959741,-80.299259)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:128px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect1);display:inline"><tspan
+         x="161.07422"
+         y="392.30577"
+         id="tspan2">♟</tspan></text>
+  </g>
+</svg>

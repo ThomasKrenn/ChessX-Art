@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.572266mm"
+   height="27.086662mm"
+   viewBox="0 0 22.572266 27.086662"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="black_root.svg"
+   inkscape:export-filename="black_rook.png"
+   inkscape:export-xdpi="93.773087"
+   inkscape:export-ydpi="93.773087"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.8"
+     inkscape:cx="59.895833"
+     inkscape:cy="58.229167"
+     inkscape:window-width="1269"
+     inkscape:window-height="985"
+     inkscape:window-x="300"
+     inkscape:window-y="138"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="149.83578"
+       y="218.51051"
+       width="227.25093"
+       height="337.13049"
+       id="rect1" />
+    <rect
+       x="149.83578"
+       y="218.51051"
+       width="227.25093"
+       height="337.13049"
+       id="rect1-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.298853,-68.063881)">
+    <path
+       id="path5"
+       style="font-size:128px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;white-space:pre;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="m 46.985571,68.063881 v 6.201172 l 3.671094,2.827735 v 7.904426 l -2.827734,2.811182 v 3.389952 h -2.530078 v 3.952196 H 67.871118 V 91.198348 H 65.34104 v -3.389952 l -2.811198,-2.811182 v -7.904426 l 3.671094,-2.827735 v -6.201172 h -4.53099 v 2.265495 h -2.811198 v -2.265495 h -4.530989 v 2.265495 h -2.827735 v -2.265495 z" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:128px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect1);display:inline"><tspan
+         x="149.83594"
+         y="346.10655"
+         id="tspan2">♜</tspan></text>
+  </g>
+</svg>
